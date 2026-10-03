@@ -150,3 +150,6 @@ Hai trang trong phạm vi mở cho mọi người chưa đăng nhập. Ma trận
 | Ngày | Nguồn | Tóm tắt |
 |---|---|---|
 | 03-10-2026 | Khảo sát UI chưa đăng nhập (chỉ đọc) | Khởi tạo RSR cho trang Đăng nhập và Quên mật khẩu: 21 REQ quan sát được, 13 điểm mơ hồ, 6 rủi ro |
+
+
+test thay dổi thông tin
